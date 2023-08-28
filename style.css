@@ -80,13 +80,14 @@ a:hover {
 /* CSS yang sudah ada ... */
 
 .article img {
-    max-width: 100px; /* Atur lebar gambar sesuai kebutuhan */
-    height: auto;
+    max-width: 100px; 
+    height: 100px;
     margin-right: 1em;
     margin-left: 1em;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
 
 
 
